@@ -91,4 +91,4 @@ This project is licensed under the [GNU Affero General Public License.](https://
 For any inquiries or contributions, please contact us at [umrajkar.g@northeastern.edu](mailto:umrajkar.g@northeastern.edu) or [gupta.vandi@northeastern.edu](mailto:gupta.vandi@northeastern.edu).
 
 ## Project Status
-This project is currently in active development. For the latest updates, please check our [GitHub repository](https://github.com/VanditGupta/EventBuzz).
+This project is currently in active development. For the latest updates, please check our [GitHub repository](https://github.com/GargiUmrajkar/EventBuzz).
